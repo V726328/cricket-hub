@@ -1,0 +1,40 @@
+
+
+header{
+    background: #4fb8fd;
+    color: white;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.player-card{
+    background: #b1e0ff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.player-card img{
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+
+#btn{
+    border-radius: 7px;
+    background: #4fb8fd;
+    border: #4fb8fd;
+}
+
+
+
+footer{
+    text-align: center;
+    padding: 10px 0px;
+    background: #4fb8fd;
+}
+
